@@ -9,9 +9,9 @@
 <div align="center">
     <img src="./mysite/assets/root.png" alt="API Root">
     <img src="./mysite/assets/regions.png" alt="Regions">
-    <img src="./mysite/assets/deleting-editing-regions" alt="Edit Region">
+    <img src="./mysite/assets/deleting-editing-region.png" alt="Edit Region">
     <img src="./mysite/assets/fruits.png" alt="Fruits">
-    <img src="./mysite/assets/deleting-editing-fruits" alt="Edit Fruit">
+    <img src="./mysite/assets/deleting-editing-fruit.png" alt="Edit Fruit">
 </div>
 
 ## Tecnologias
