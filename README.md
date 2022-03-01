@@ -1,9 +1,9 @@
-## Desafio Frexco
+## Django Crud
 
 ![Author](https://img.shields.io/badge/author-enzoggqs-blueviolet)
 
 <h4 align="center">
-  Repositório destinado a página criada para o desafio da Frexco.
+  Repositório destinado a página criada para um CRUD feito com Django. Na aplicação temos 2 tabelas, as Regiões e as Frutas. As regiões podem ser cadastradas e modificadas de qualquer maneira, já as frutas devem ser assossiadas a uma região. A partir dessass informações o usuário pode manipular as regiões e frutas conforme ele quiser, desde que siga as regras citadas acima.
 </h4>
 
 <div align="center">
@@ -24,7 +24,7 @@ No desenvolvimento do projeto, foi utilizado a linguagem [Python](https://www.py
 
 **Clone o repositório e acesse a pasta clonada**
 
-$ git clone https://github.com/enzoggqs/DESAFIO_FREXCO && cd desafio-kolabs
+$ git clone https://github.com/enzoggqs/django_crud && cd django_crud
 
 ```
 # Ative o ambiente virtual
